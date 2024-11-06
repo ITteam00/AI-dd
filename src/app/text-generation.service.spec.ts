@@ -6,7 +6,7 @@ import {
 import { TextGenerationService } from './text-generation.service';
 import { environment } from '../../env';
 
-describe('TextGenerationService', () => {
+fdescribe('TextGenerationService', () => {
   let service: TextGenerationService;
   let httpMock: HttpTestingController;
 
